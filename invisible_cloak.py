@@ -76,4 +76,3 @@ cv2.destroyAllWindows()
 # lower_red = np.array([170, 120, 70])
 #  upper_red = np.array([180, 255, 255])
 
-#-----------------------
